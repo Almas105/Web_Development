@@ -1,0 +1,28 @@
+.body{
+    font-size: 50px;
+}
+.navbar{
+    float: left;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    background-color: antiquewhite;
+}
+header{
+    background-color: aquamarine;
+    margin-left: 160px;
+    padding: 50px;
+    
+}
+.article{
+    margin-left: 160px;
+    padding: 30px;
+}
+footer{
+    background-color: blue;
+    position: fixed;
+    bottom: 0;
+    margin-left: 160px;
+    width: 100%;
+    padding: 30px;
+}
